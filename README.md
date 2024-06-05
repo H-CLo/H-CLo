@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm H-CLo, an iOS Developer.
+
 <!--
 **H-CLo/H-CLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
