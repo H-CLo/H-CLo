@@ -2,6 +2,8 @@
 
 I'm H-CLo, an iOS Developer.
 
+My recent [resume]([https://link-url-here.org](https://www.cakeresume.com/s--Ws1y-KS_StbxSfwYLuaJYw--/lo-willey)).
+
 <!--
 **H-CLo/H-CLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
