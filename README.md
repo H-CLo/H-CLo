@@ -2,7 +2,11 @@
 
 I'm H-CLo, an iOS Developer.
 
-My recent [resume](https://www.cakeresume.com/s--Ws1y-KS_StbxSfwYLuaJYw--/lo-willey).
+- 7 years iOS development experience
+- Experience with security, e-commerce, e-book, map, streaming, securities, map apps.
+- 🔭 I’m currently seeking for new oppotunity ...
+- Here is my recent [resume](https://www.cakeresume.com/s--Ws1y-KS_StbxSfwYLuaJYw--/lo-willey).
+- 📫 How to reach me: willey.job@gmail.com
 
 <!--
 **H-CLo/H-CLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
